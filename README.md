@@ -162,6 +162,3 @@ We proudly support the community by developing Laravel packages and giving them 
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
-## Related
-
-- [Inertia Modal](https://inertiaui.com/inertia-modal/docs/introduction): With Inertia Modal, you can easily open any route in a modal or slideover without having to change anything about your existing routes or controllers.
